@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Pillars.data.unityweb",
+"asmCodeUrl": "Pillars.asm.code.unityweb",
+"asmMemoryUrl": "Pillars.asm.memory.unityweb",
+"asmFrameworkUrl": "Pillars.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
